@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2013/01/05/20/00/milky-way-74005_960_720.jpg) ;
+    background-repeat: repeat;
+    /* background-attachment: scroll; */
+
+  background-size: auto;
+    background-position: center;
+}
+
+
+h1{
+    color: khaki;
+    text-align: center;
+    text-decoration: plum;
+   text-shadow: 5px 5px gray ;
+
+}
+p{
+    text-size-adjust: 20mm;
+    text-align: center;
+    text-decoration: rgb(79, 123, 253);
+
+}
+span{
+    border:  5px rgb(17, 167, 97);
+    /*line-height:150px;*/
+
+}
